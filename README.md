@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://dev.to/meshackcommey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="meshackcommey" height="30" width="40" /></a>
-<a href="https://twitter.com/JamesZokah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jameszokah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/james-zokah-860559196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meshackcommey" height="30" width="40" /></a>
-<a href="https://fb.com/meshackcommey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meshackcommey" height="30" width="40" /></a>
+<a href="https://twitter.com/meshackcommey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jameszokah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meshack-commey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meshackcommey" height="30" width="40" /></a>
+<a href="https://fb.com/meshack-commey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meshackcommey" height="30" width="40" /></a>
 <a href="https://instagram.com/jam_kyn_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jam_kyn_z" height="30" width="40" /></a>
 <a href="https://medium.com/@meshackcommey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meshackcommey" height="30" width="40" /></a>
 
