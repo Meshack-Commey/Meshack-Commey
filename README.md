@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   # Connect with me: <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="40px">
 
 <p align="left">
-<a href="https://dev.to/jameszokah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jameszokah" height="30" width="40" /></a>
+<a href="https://dev.to/meshackcommey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="meshackcommey" height="30" width="40" /></a>
 <a href="https://twitter.com/JamesZokah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jameszokah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/james-zokah-860559196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meshackcommey" height="30" width="40" /></a>
 <a href="https://fb.com/meshackcommey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meshackcommey" height="30" width="40" /></a>
